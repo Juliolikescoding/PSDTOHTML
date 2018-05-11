@@ -1,0 +1,34 @@
+body{
+    padding: 0;
+    margin: 0;S
+}
+
+header{
+    background-color: #8a8a8a;
+    min-width: 100%;
+    min-height: 95vh;
+}
+
+.logo{
+    position: absolute;
+    min-width: 33.5vw;
+    max-width: 33.5vw;
+    left: 27.4vw;
+    top: 27.3vh;
+}
+
+.logo img{
+    width: 100%;
+}
+
+nav{
+    min-height: 14.28;
+    padding: 0vh 
+}
+
+.nav_btn{
+    padding: 0;!important
+background-color: #00a99d;
+}
+
+
